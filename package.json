@@ -1,0 +1,8 @@
+{
+    "name": "StandBot",
+    "version": "1.0.0",
+    "description": "osu! bot",
+    "main": "bot.js",
+    "author": "DRCallaghan",
+    "dependencies": {}
+}
