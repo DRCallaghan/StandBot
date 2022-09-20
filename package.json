@@ -4,5 +4,7 @@
     "description": "osu! bot",
     "main": "bot.js",
     "author": "DRCallaghan",
-    "dependencies": {}
+    "dependencies": {
+        "discord.js": "^14.3.0"
+    }
 }
