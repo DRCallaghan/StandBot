@@ -5,6 +5,7 @@
     "main": "bot.js",
     "author": "DRCallaghan",
     "dependencies": {
-        "discord.js": "^14.3.0"
+        "discord.js": "^12.5.3",
+        "dotenv": "^16.0.2"
     }
 }
