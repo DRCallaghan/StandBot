@@ -6,6 +6,7 @@
     "author": "DRCallaghan",
     "dependencies": {
         "discord.js": "^12.5.3",
-        "dotenv": "^16.0.2"
+        "dotenv": "^16.0.2",
+        "node-fetch": "^2.6.7"
     }
 }
