@@ -5,6 +5,7 @@
     "main": "bot.js",
     "author": "DRCallaghan",
     "dependencies": {
+        "@rian8337/osu-strain-graph-generator": "^2.2.0",
         "discord.js": "^12.5.3",
         "dotenv": "^16.0.2",
         "node-fetch": "^2.6.7"
